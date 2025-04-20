@@ -326,6 +326,7 @@ margin: 16px;
   font-size: 1.5rem;
   z-index: 9999;}
   
+
   body.locked #mainContent {
     display: none;
   }
